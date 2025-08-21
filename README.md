@@ -8,7 +8,7 @@
 
 ---
 
-![Dashboard Overview](Revenue%Insights/ss1.png)
+![Dashboard Overview](Revenue%20Insights/ss1.png)
 
 ---
 
@@ -30,10 +30,10 @@ This dashboard empowers stakeholders to identify top-performing properties, unde
 Here are a few snapshots of the main dashboard views:
 
 **Dashboard - Main View:** Provides a high-level overview of all key metrics, with filters for date range, city, and hotel property.
-![Dashboard - Main View](Revenue%Insights/ss1.png)
+![Dashboard - Main View](Revenue%20Insights/ss1.png)
 
 **Dashboard - Details View:** Offers a more granular look at performance by room type, booking platform, and booking status.
-![Dashboard - Details View](Revenue%Insights/ss2.png)
+![Dashboard - Details View](Revenue%20Insights/ss2.png)
 
 ---
 
