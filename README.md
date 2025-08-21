@@ -37,28 +37,11 @@ Here are a few snapshots of the main dashboard views:
 
 ---
 
-### 📈 Key Performance Indicators (KPIs)
-
-The dashboard tracks several critical metrics, derived from the data using DAX:
-
--   **Total Revenue:** The total revenue realized from all successful bookings.
--   **Total Bookings:** The total number of unique bookings made.
--   **Occupancy %:** The percentage of available rooms that were successfully booked.
-    -   $Occupancy \% = \frac{\text{Total Successful Bookings}}{\text{Total Capacity}}$
--   **Average Daily Rate (ADR):** The average revenue earned per occupied room per day.
-    -   $ADR = \frac{\text{Total Revenue}}{\text{Total Successful Bookings}}$
--   **Revenue Per Available Room (RevPAR):** A key metric that measures a hotel's ability to fill its available rooms at an average rate.
-    -   $RevPAR = ADR \times Occupancy \%$
--   **Realisation %:** The percentage of revenue generated from confirmed bookings that was actually realized.
--   **Week-over-Week (WoW) Change %:** Dynamic calculation of the percentage change in key metrics compared to the previous week.
-
----
 
 ### 🛠️ Technologies Used
 
 -   **Power BI Desktop:** The core tool for data modeling, DAX calculations, and dashboard creation.
 -   **DAX (Data Analysis Expressions):** Used to create powerful and flexible calculations.
 -   **Power Query:** For data extraction, transformation, and loading (ETL).
--   **Microsoft Excel:** Used initially to inspect the data and review the metrics list.
 
 ---
